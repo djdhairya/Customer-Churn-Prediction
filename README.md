@@ -149,3 +149,4 @@ Open your browser and go to:`http://127.0.0.1:5000/`
 - Improve the user interface for better usability.
 
 ---
+![Screenshot 2024-12-15 185631](https://github.com/user-attachments/assets/afa8753b-a0f2-4a61-9d51-b12c51979f35)
